@@ -86,5 +86,5 @@ project-folder/
 
 
 ## Credits & Collaboration
-- **My Role:** System conceptual founder, architecture design, and frontend/backend development
-- **Team Attribution:** Originally developed collaboratively with [M.J.A Ciervo, M.L Duhan, A.J Redondo, S.M Agon] for our 3rd-year Data Structures and Algorithms course.
+- **My Role:** System concept/idea founder, architecture design, and frontend/backend development
+- **Team Attribution:** Originally developed collaboratively with S.M Agon, M.J.A Ciervo, M.L Duhan, A.J Redondo for our 3rd-year Data Structures and Algorithms course.
