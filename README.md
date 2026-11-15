@@ -81,3 +81,10 @@ project-folder/
 - **“Module not found”**: The virtual environment isn’t active or `pip install -r requirements.txt` wasn’t run. Repeat Step 3.
 - **“python is not recognized”**: Python isn’t installed or not added to PATH. Reinstall Python and enable the PATH option.
 - **Changes not showing?**: Hard-refresh the browser with `Ctrl + Shift + R` to clear cache.
+
+
+
+
+## Credits & Collaboration
+- **My Role:** System conceptual founder, architecture design, and frontend/backend development
+- **Team Attribution:** Originally developed collaboratively with [M.J.A Ciervo, M.L Duhan, A.J Redondo, S.M Agon] for our 3rd-year Data Structures and Algorithms course.
